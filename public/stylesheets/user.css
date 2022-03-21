@@ -1,0 +1,36 @@
+body{
+    background-color: #556ee6;
+}
+.title{
+    display: flex;
+    margin-left: 650px;
+    
+}
+.informations{
+    width: 600px;
+    margin-left: 400px;
+    margin-top: 50px;
+    border-style: groove;
+    padding: 20px;
+    background-color: #778beb;
+    height:500px ;
+    border-radius: 12px;
+    
+}
+.col-1,.col-2,.des,.sunmitBtn{
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+#num{
+    width: 50px;
+}
+input{
+    border-radius: 12px;
+    margin-bottom: 10px;
+   
+}
+textarea{
+    border-radius: 12px;
+    
+}
